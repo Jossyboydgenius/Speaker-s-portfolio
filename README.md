@@ -1,3 +1,5 @@
+<img width="1280" alt="Screenshot 2024-11-15 at 12 05 52 AM" src="https://github.com/user-attachments/assets/82b01f7d-b3f9-4930-9c21-a6d4d9cd8959">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,6 +30,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+<img width="1392" alt="Screenshot 2024-11-14 at 11 44 21 PM" src="https://github.com/user-attachments/assets/fcc7c4b0-3cfb-4f6b-8092-66c45f766cd0">
+
 
 ### `npm run eject`
 
